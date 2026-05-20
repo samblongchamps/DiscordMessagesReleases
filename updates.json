@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "minimumSupportedVersion": "1.0.0",
+  "releaseDate": "2026-05-20",
+  "downloadUrl": "https://github.com/samblongchamps/DiscordMessagesReleases/releases/download/v1.0.0/DiscordMessages-1.0.0.zip",
+  "releaseUrl": "https://github.com/samblongchamps/DiscordMessagesReleases/releases/tag/v1.0.0",
+  "notes": [
+    "Initial public update feed for Discord Messages."
+  ]
+}
