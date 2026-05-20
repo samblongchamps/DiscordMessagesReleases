@@ -6,13 +6,6 @@ The extension checks `updates.json` once per day. When `version` is newer than
 the installed extension version, the update button glows and opens the URL
 defined here.
 
-## Release Flow
-
-1. Package the CEP extension as a zip, for example `DiscordMessages-1.2.0.zip`.
-2. Upload the zip to `releases/` or to a GitHub Release asset.
-3. Update `updates.json` with the new version, URLs, date, and notes.
-4. Push this repo to its public GitHub repository.
-
 ## Manifest Fields
 
 - `version`: latest available extension version.
