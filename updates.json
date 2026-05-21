@@ -1,10 +1,10 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "minimumSupportedVersion": "0.0.1",
-  "releaseDate": "2026-05-20",
-  "downloadUrl": "https://www.dropbox.com/scl/fi/5uq32xg38ph4qkdqae70i/V_0_0_1-DiscordMessagesPlugin.zip?rlkey=o3w9amcz6u3hx1kvetw7e5ube&st=q4wo0wu6&dl=0",
-  "releaseUrl": "https://github.com/samblongchamps/DiscordMessagesReleases/releases/tag/v0.0.1",
+  "releaseDate": "2026-05-21",
+  "downloadUrl": "https://www.dropbox.com/scl/fi/yd0xqgc95bjtdou1qi45w/V_0_0_2-DiscordMessagesPlugin.zip?rlkey=bjjoohee2y6dx4h8xsy7i12x5&st=f4jj2vij&dl=0",
+  "releaseUrl": "https://github.com/samblongchamps/DiscordMessagesReleases/releases/tag/v0.0.2",
   "notes": [
-    "Initial public update feed for Discord Messages."
+    "Discord Messages 0.0.2 release."
   ]
 }
