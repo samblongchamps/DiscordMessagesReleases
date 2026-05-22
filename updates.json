@@ -1,10 +1,13 @@
 {
-  "version": "0.0.2",
+  "version": "0.0.3",
   "minimumSupportedVersion": "0.0.1",
   "releaseDate": "2026-05-21",
-  "downloadUrl": "https://www.dropbox.com/scl/fi/yd0xqgc95bjtdou1qi45w/V_0_0_2-DiscordMessagesPlugin.zip?rlkey=bjjoohee2y6dx4h8xsy7i12x5&st=f4jj2vij&dl=0",
-  "releaseUrl": "https://github.com/samblongchamps/DiscordMessagesReleases/releases/tag/v0.0.2",
+  "downloadUrl": "https://www.dropbox.com/scl/fi/bk7m33k0ytee3n80sf2vq/V_0_0_3-DiscordMessagesPlugin.zip?rlkey=3f6jd4iaozo60fy7tqbni2e92&st=0qgmuef7&dl=0",
+  "releaseUrl": "https://github.com/samblongchamps/DiscordMessagesReleases/releases/tag/v0.0.3",
   "notes": [
-    "Discord Messages 0.0.2 release."
+    "New padding settings: message top/bottom padding, image max width, and line downscale controls.",
+    "New chip settings for mentions and spoiler blocks.",
+    "Support for mention highlights.",
+    "Drastically improved the AI prompt generator."
   ]
 }
